@@ -55,4 +55,7 @@ Auto-scaling policies trigger new instance launches during high traffic.
 AWS Elastic Beanstalk, Apache Tomcat, Amazon S3, Amazon RDS (MySQL), Amazon Route 53, Amazon CloudFront, Amazon MQ, Amazon CloudWatch, Memcached, Elastic Load Balancer, Auto Scaling
 
 
+<img width="1774" height="1024" alt="Screenshot 2025-09-20 at 2 14 17 AM" src="https://github.com/user-attachments/assets/160358a5-d934-4207-bc70-3e296ada2a8e" />
+
+
 
