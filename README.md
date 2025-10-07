@@ -23,3 +23,4 @@ sql dump file:
 - > mysql -u <user_name> -p accounts < db_backup.sql
 
 
+![Uploading Screenshot 2025-09-26 at 9.06.53 PM.png…]()
